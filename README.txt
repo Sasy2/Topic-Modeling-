@@ -79,7 +79,7 @@ Diversity Score (BERTopic): 72%
 
 Document Alignment Score: 0.721 (BERTopic)
 
-Human Evaluation: Performed via Google Forms and HTML interfaces
+Human Evaluation: Performed via Google Forms and HTML interfaces.
 
 ---
 
