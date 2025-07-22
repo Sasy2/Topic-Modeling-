@@ -21,7 +21,7 @@ The Ink Pulse Project applies topic modeling techniques—**Latent Dirichlet All
 
 ## 🛠️ Installation & Requirements
 
-```bash
+
 Python 3.10+
 pip install -r requirements.txt
 
