@@ -5,11 +5,6 @@ The Ink Pulse Project applies topic modeling techniques—**Latent Dirichlet All
 
 ---
 
-## 🧠 Motivation
-Despite Ashesi University’s efforts to support students through various initiatives and help units (like CCAPS and ODIP), attendance and engagement levels remain low. Our hypothesis is that many events do not target the actual pain points students face. This project seeks to bridge that gap using **unsupervised machine learning** to extract recurring themes from student feedback.
-
----
-
 ## 📁 Project Files
 
 | File | Description |
